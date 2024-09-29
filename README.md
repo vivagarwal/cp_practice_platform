@@ -12,7 +12,7 @@ Here's a creative and engaging README for your full stack project using FastAPI 
 
 You can check the live version of the app hosted on Vercel:
 
-🔗 [Live Demo](https://fastapi-nextjs-problems-frontend.vercel.app/)
+🔗 [https://fastapi-nextjs-problems-frontend.vercel.app/](https://fastapi-nextjs-problems-frontend.vercel.app/)
 
 ---
 
