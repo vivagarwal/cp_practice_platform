@@ -18,6 +18,14 @@ Here's a creative and engaging README for your full stack project using FastAPI 
 
 ---
 
+## 🌐 Live Demo
+
+You can check the live version of the app hosted on Vercel:
+
+🔗 [Live Demo](https://fastapi-nextjs-problems-frontend.vercel.app/)
+
+---
+
 ## 🖥️ Technologies Used
 
 - **Backend**: [FastAPI](https://fastapi.tiangolo.com/) (Python)
@@ -27,19 +35,10 @@ Here's a creative and engaging README for your full stack project using FastAPI 
 
 ---
 
-## 📂 Backend Structure
+### 💻 Deployment Platforms
 
-The backend is written using FastAPI and is designed to handle code execution and problem management. Below is a brief overview of the core files:
-
-### `/main.py`
-This is the heart of the backend:
-
-- `@app.get("/")`: Root route that returns a welcome message.
-- `@app.get("/api/hello")`: Basic route to test if the API is working.
-- `@app.get("/api/get-all-problems")`: Fetch all available coding problems.
-- `@app.get("/api/get-problem-description/{id}")`: Fetch a problem description by its ID.
-- `@app.post("/api/run")`: Run submitted code in C++ or Python and return the output.
-- `@app.post("/api/submit")`: Submit code to a problem, check test cases, and return results.
+- **Frontend**: [Vercel](https://vercel.com/)  
+- **Backend**: [Glitch](https://glitch.com/)
 
 ---
 
@@ -47,6 +46,7 @@ This is the heart of the backend:
 
 Here's a quick list of available API endpoints:
 
+- **GET** `/`: Basic API test route that returns welcome message.
 - **GET** `/api/hello`: Basic API test route.
 - **GET** `/api/get-all-problems`: Fetch all coding problems.
 - **GET** `/api/get-problem-description/{id}`: Fetch a problem's description by ID.
@@ -128,7 +128,6 @@ Here's a quick list of available API endpoints:
    Once both the backend and frontend servers are running, open your browser and navigate to `http://localhost:3000` to view the full application.
 
 ---
----
 
 ### 🧪 Running Backend Tests
 
@@ -190,14 +189,6 @@ Here are a few example API requests:
      "input": ""
    }
    ```
-
----
-
-## 🌐 Live Demo
-
-You can check the live version of the app hosted on Vercel:
-
-🔗 [Live Demo](https://fastapi-nextjs-problems-frontend.vercel.app/)
 
 ---
 
