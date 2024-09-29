@@ -128,6 +128,34 @@ Here's a quick list of available API endpoints:
    Once both the backend and frontend servers are running, open your browser and navigate to `http://localhost:3000` to view the full application.
 
 ---
+---
+
+### 🧪 Running Backend Tests
+
+To ensure everything is working as expected, you can run the tests for the FastAPI backend.
+
+1. **Navigate to the backend directory**:
+   ```bash
+   cd backend
+   ```
+
+2. **Run the tests**:
+   We use `pytest` to run the tests and also include coverage information. Simply run:
+   ```bash
+   pytest --cov=main
+   ```
+
+### 📊 Test Coverage
+
+The current test coverage for the backend code is shown below:
+
+![Test Coverage Screenshot](./Screenshot_test_coverage.png)
+
+### 🛠️ Tools and Technologies
+
+- **Testing Framework**: [`pytest`](https://docs.pytest.org/en/latest/)
+- **Coverage Tool**: [`pytest-cov`](https://pytest-cov.readthedocs.io/en/latest/)
+---
 
 ## 📦 Deployment
 
