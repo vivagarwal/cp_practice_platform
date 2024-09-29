@@ -1,0 +1,6 @@
+[submodule "frontend_nextjs"]
+	path = frontend_nextjs
+	url = https://github.com/vivagarwal/fastapi_nextjs_problems_frontend.git
+[submodule "backend_fastapi"]
+	path = backend_fastapi
+	url = https://github.com/vivagarwal/fastapi_nextjs_problems_backend.git
