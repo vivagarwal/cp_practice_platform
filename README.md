@@ -1,7 +1,3 @@
-Here's a creative and engaging README for your full stack project using FastAPI as the backend and Next.js as the frontend:
-
----
-
 # 🚀 Full Stack Code Runner & CP Problem Management System
 
 🎉 Welcome to the **Code Runner & CP Problem Management System**! This is a full stack application designed to allow users to run code, solve programming challenges, and manage coding problems with a FastAPI backend and a Next.js frontend.
