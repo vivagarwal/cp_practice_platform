@@ -8,6 +8,20 @@ Here's a creative and engaging README for your full stack project using FastAPI 
 
 ---
 
+## 🌐 Live Demo
+
+You can check the live version of the app hosted on Vercel:
+
+🔗 [Live Demo](https://fastapi-nextjs-problems-frontend.vercel.app/)
+
+---
+
+### 🎥 Application Demo
+
+![Application Demo](media/ScreenRecording_app.gif)
+
+---
+
 ## 🌟 Features
 
 - 🌐 **FastAPI Backend**: High-performance backend that handles code execution and problem management.
@@ -15,14 +29,6 @@ Here's a creative and engaging README for your full stack project using FastAPI 
 - 🛠 **Problem Solving Platform**: Solve coding problems with automatic evaluation and feedback.
 - 🔐 **CORS Middleware**: Secure connections between the frontend and backend with cross-origin resource sharing enabled.
 - 🗂 **Organized API**: Endpoints for running, submitting, and fetching problems.
-
----
-
-## 🌐 Live Demo
-
-You can check the live version of the app hosted on Vercel:
-
-🔗 [Live Demo](https://fastapi-nextjs-problems-frontend.vercel.app/)
 
 ---
 
@@ -148,7 +154,7 @@ To ensure everything is working as expected, you can run the tests for the FastA
 
 The current test coverage for the backend code is shown below:
 
-![Test Coverage Screenshot](./Screenshot_test_coverage.png)
+![Test Coverage Screenshot](media/Screenshot_test_coverage.png)
 
 ### 🛠️ Tools and Technologies
 
