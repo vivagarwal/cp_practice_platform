@@ -4,3 +4,6 @@
 [submodule "backend_fastapi"]
 	path = backend_fastapi
 	url = https://github.com/vivagarwal/fastapi_nextjs_problems_backend.git
+[submodule "backend_django"]
+	path = backend_django
+	url = https://github.com/vivagarwal/django_problems_backend.git
